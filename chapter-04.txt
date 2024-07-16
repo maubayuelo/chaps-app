@@ -9,3 +9,6 @@ Don't just take my word for it, check out what existing students have to say abo
 "So far (on my third day) this course has taught me more than I was able to learn in multiple other programming courses. This course is clearly outlined and builds upon itself gradually in an easy to understand way." - Normal Ramsey
 
 "This course will take you from beginner to intermediate level for real. If you don't know how to put together the pieces of web development this is what you're looking for. Angela explains in an amazing way by creating projects all the way during this course, explaining the concepts in real practice. Thank you very much, Angela. I will always consider you my mentor. Look forward to taking more courses with you." - Moises Dionisio Cruz
+
+
+I spend most of my time researching how to make learning to code fun and make hard concepts easy to understand. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of explanations and animations to make sure everything is easy to understand.

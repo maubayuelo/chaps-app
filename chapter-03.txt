@@ -3,3 +3,6 @@ Welcome to the Complete Web Development Bootcamp, the only course you need to le
 We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a web developer.
 
 The course includes over 62 hours of HD video tutorials and builds your programming knowledge while making real-world websites and web apps.
+
+My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made hundred of websites, apps and games. But most importantly, I realised that my greatest passion is teaching.
+
